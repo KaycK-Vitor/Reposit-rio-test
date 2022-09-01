@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <style>
+        h1{
+            color: black;
+            font-family: Verdana;
+        }
+        p{
+            color: black;
+            font-family: Geneva;
+        }
+    </style>
+    <head>
+
+        <meta charset="utf-8">
+        <title> Title for the site. </title>
+
+        <body>
+            <h1 style="background-color:#785d4e ; font-family: Verdana; text-align: center; font-size: 300%;"> Hyper web </h1>
+            <p style="text-align: center; font-size: 125%; font-family: sans-serif;"> Site introdutório da primeira aula de HTML </p>
+            <hr>
+            <p style="text-align:center; ">Essa versão inicial da Hyper web tem o intuito de <br> fornecer o primeiro contato do cliente com <br> nossa plataforma de venda de sites.</p>
+            <div id="dov">
+                <p><img src="img.jpg"  width="800" height="553"/><p>
+            </div>
+            
+
+        </body>
+    </head>
+
+
+</html>
